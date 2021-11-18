@@ -5,7 +5,7 @@ Built Key point Detection Model using Transfer Learning with Detectron 2 (Fast R
 
 # Data Set : 
 Used the COCO 2017 Dataset (train2017 and val2017 ) from https://cocodataset.org/#download  for the training.
-For trying tensorflow’s Efficient Det, used the tfrecords hosted  in a public Cloud Storage bucket, gs://cloud-samples-data/ai-platform/built-in/image/coco/.
+For trying tensorflow’s Efficient Det, used the tfrecords hosted in a public Cloud Storage bucket gs://cloud-samples-data/ai-platform/built-in/image/coco/.
 
 # Task Selected for COCO Challenge 
 COCO Keypoint Detection Task
